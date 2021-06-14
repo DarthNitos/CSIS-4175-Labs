@@ -1,0 +1,2 @@
+rootProject.name = "Power Receiver Homework"
+include ':app'
